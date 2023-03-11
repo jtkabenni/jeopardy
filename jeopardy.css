@@ -1,0 +1,39 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+#start-game {
+  margin: 0 auto;
+  display: block;
+}
+table {
+  table-layout: fixed;
+  width: 75%;
+  margin: auto;
+}
+td {
+  width: 15%;
+  height: 125px;
+  text-align: center;
+  font-size: 13px;
+  color: white;
+}
+.cell {
+  border: 2px solid black;
+}
+
+.clue {
+  background-color: rgb(38, 0, 255);
+}
+
+.head {
+  background-color: pink;
+  padding: 5px;
+}
+
+p {
+}
